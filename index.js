@@ -16,13 +16,13 @@ const settings = {
   flowFile: 'flows.json',
   apiMaxLength: '50mb',
   editorTheme: {
-    page: {
-      css: path.join(__dirname, "/ui-styles/midnight.css"),
-      scripts: path.join(__dirname, "/ui-styles/theme-tomorrow.js")
-    },
-    palette: {
-        editable: false
-    }
+    // page: {
+    //   css: path.join(__dirname, "/ui-styles/midnight.css"),
+    //   scripts: path.join(__dirname, "/ui-styles/theme-tomorrow.js")
+    // },
+    // palette: {
+    //     editable: false
+    // }
   },
   functionGlobalContext: { // enables global context      
 
