@@ -15,7 +15,7 @@ const settings = {
   userDir: './',
   flowFile: 'flows.json',
   apiMaxLength: '50mb',
-  editorTheme: {
+  // editorTheme: {
     // page: {
     //   css: path.join(__dirname, "/ui-styles/midnight.css"),
     //   scripts: path.join(__dirname, "/ui-styles/theme-tomorrow.js")
@@ -23,7 +23,7 @@ const settings = {
     // palette: {
     //     editable: false
     // }
-  },
+  // },
   functionGlobalContext: { // enables global context      
 
     "testValue": "exampleString",
