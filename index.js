@@ -25,11 +25,8 @@ const settings = {
     // }
   // },
   functionGlobalContext: { // enables global context      
-
     "testValue": "exampleString",
-
     "testPackage": moment
-
   }
 }
 
